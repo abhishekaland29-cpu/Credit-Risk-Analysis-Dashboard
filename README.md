@@ -17,9 +17,9 @@ This project analyzes **5,960 Home Equity Loan (HMEQ) applications** to identify
 * **AI Analysis:** Using Decomposition Trees, identified 'Debt Consolidation' as a high-risk loan reason.
 
 ## 🖼️ Dashboard Preview
-![Page 1](Executive Credit Portfolio.png)
-![Page 2](C:\Users\Admiin\Downloads\HMEQ PROJECT\RESULT IMAGE\Risk Factor Deep - Drive)
-![Page 3](C:\Users\Admiin\Downloads\HMEQ PROJECT\RESULT IMAGE\Financial Profile Analysis)
+[Page 1](Executive Credit Portfolio.png)
+[Page 2](Risk Factor Deep - Drive.png)
+[Page 3](Financial Profile Analysis.png)
 
 ## 📂 Project Structure
 * `/SQL_Scripts`: Contains all data transformation queries.
