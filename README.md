@@ -18,14 +18,17 @@ This project analyzes **5,960 Home Equity Loan (HMEQ) applications** to identify
 
 ## 🖼️ Dashboard Preview
 
-### Page 1: Executive Overview
-![Page 1](Executive_Credit_Portfolio.png)
+### 1. Executive Credit Portfolio
+This page provides an overview of KPIs such as Total Loan ($221.81M) and Overall Default Rate (19.95%).
+![Executive Portfolio](Executive%20Credit%20Portfolio.png)
 
-### Page 2: Risk Factor Deep-Dive
-![Page 2](Risk_Factor_Deep_Dive.png)
+### 2. Risk Factor Deep - Drive
+Focuses on delinquency patterns, showing that a higher number of late payments (DELINQ) significantly increases default probability.
+![Risk Factor Analysis](Risk%20Factor%20Deep%20-%20Drive.png)
 
-### Page 3: Financial Profile Analysis
-![Page 3](Financial_Profile_Analysis.png)
+### 3. Financial Profile Analysis
+Features an AI-powered Decomposition Tree for Total Loss root-cause analysis and borrower segmentation by DTI category.
+![Financial Profile](Financial%20Profile%20Analysis.png)
 
 ## 📂 Project Structure
 * `/SQL_Scripts`: Contains all data transformation queries.
